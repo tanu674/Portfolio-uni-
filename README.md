@@ -5,6 +5,8 @@ The primary focus of this project is not just frontend design. It also showcases
 🎯 Objective
 To design and deploy a professional, globally accessible personal portfolio website using AWS cloud services, ensuring performance, security, and scalability.
 
+
+
 🛠 Technologies Used
 Frontend
 HTML
@@ -16,6 +18,8 @@ Amazon CloudFront. Content Delivery Network with HTTPS
 Version Control
 Git
 GitHub
+
+
 ⚙️ Deployment Process
 Designed and developed the portfolio using HTML, CSS, and JavaScript.
 Created an S3 bucket and enabled static website hosting.
@@ -23,6 +27,9 @@ Configured public access policies for web hosting.
 Uploaded frontend files to the S3 bucket.
 Integrated Amazon CloudFront to improve performance and enable HTTPS.
 Verified deployment using both S3 and CloudFront endpoints.
+
+
+
 🚀 Key Features
 Fully responsive and user friendly design
 Global accessibility using AWS CloudFront CDN
