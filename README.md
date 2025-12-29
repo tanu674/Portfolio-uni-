@@ -35,6 +35,9 @@ Fully responsive and user friendly design
 Global accessibility using AWS CloudFront CDN
 Secure HTTPS delivery
 Scalable and cost effective static hosting
-Demonstrates practical cloud deployment skills
-🌐 Live Website
+Demonstrates practical cloud deployment skills.
+
+
+🌐 Live Website : S3 LIVE :
+http://portfolio08.s3-website.eu-north-1.amazonaws.com
 S3 Static Website URL
