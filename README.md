@@ -1,6 +1,8 @@
-# aws-static-web-
+# aws-static website 
 
 The primary focus of this project is not just frontend design. It also showcases real world cloud hosting, scalability, and global accessibility using AWS services.
+
+
 
 🎯 Objective
 To design and deploy a professional, globally accessible personal portfolio website using AWS cloud services, ensuring performance, security, and scalability.
@@ -20,6 +22,8 @@ Git
 GitHub
 
 
+
+
 ⚙️ Deployment Process
 Designed and developed the portfolio using HTML, CSS, and JavaScript.
 Created an S3 bucket and enabled static website hosting.
@@ -36,6 +40,8 @@ Global accessibility using AWS CloudFront CDN
 Secure HTTPS delivery
 Scalable and cost effective static hosting
 Demonstrates practical cloud deployment skills.
+
+
 
 
 🌐 Live Website : S3 LIVE :
